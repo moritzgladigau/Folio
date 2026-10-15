@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Folio
+Comment=ReadOnly Dokumentenbrowser
+Icon=folio-readonly
+Exec=folio %f
+Terminal=false
+Categories=Office;Viewer;
+MimeType=inode/directory;
+StartupNotify=true
